@@ -30,11 +30,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/signup/gmail": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/signup/gmail.js"
-    ],
     "/signup/office": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

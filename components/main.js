@@ -1,9 +1,8 @@
 
 /* eslint-disable jsx-a11y/alt-text */
 import Image from 'next/image'
-import React from 'react'
 import Link from 'next/link'
-import { useState } from 'react'
+import React, { useState } from 'react'
 import { useRouter } from 'next/router'
 
 
